@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian</h1>
-<h3 align="center">Soy estudiante de ingenieria de sitemas</h3>
+<h3 align="center">Soy Estudiante De Ingenieria De Sitemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebas3536&label=Profile%20views&color=0e75b6&style=flat" alt="sebas3536" /> </p>
 
