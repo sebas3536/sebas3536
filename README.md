@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Juan Sebastian</h1>
+<h3 align="center">Soy estudiante de ingenieria de sitemas</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebas8011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-delaossa) 
